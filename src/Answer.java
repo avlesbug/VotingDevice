@@ -1,0 +1,4 @@
+enum Answer {
+    YES,
+    NO
+}
